@@ -1,4 +1,6 @@
-# Lab 7 - Unit & E2E Testing
+# Lab 7 
+
+Name: Edison Zhang
 
 ## Check Your Understanding Answers
 
