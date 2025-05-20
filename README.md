@@ -1,6 +1,6 @@
 # Lab 7 
 
-Name: Edison Zhang
+Name: Edison Zhang and Ryan Ni
 
 ## Check Your Understanding Answers
 
